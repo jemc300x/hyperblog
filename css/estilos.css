@@ -9,3 +9,14 @@ body {
   margin: 0 auto;
   padding: 10;
 }
+
+#cabecera {
+  text-align: start;
+  background-color: teal;
+  padding: 5px;
+  color: aliceblue;
+}
+
+.subtitulo {
+  font-size: 18px;
+}
