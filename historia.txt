@@ -4,3 +4,4 @@ Hoy hablaremos de su historia
 trabaja en arequipa
 hola mundo
 este es una linea de texto agregada por fullfullstack
+Soy fullfullstack y voy a contribuir a este proyecto
